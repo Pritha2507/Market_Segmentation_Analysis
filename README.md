@@ -1,0 +1,2 @@
+# Market_Segmentation_Analysis
+For this case study, imagine that you are McDonald’s, and you would want to know if consumer segments exist that have a distinctly different image of McDonald’s. Understanding such systematic differences of brand perceptions by market segments informs which market segments to focus on, and what messages to communicate to them. In this case, we want to understand the key drivers of the negative perception, and modify them.
